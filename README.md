@@ -1,4 +1,4 @@
-# LLM running locally on Raspberry Pi 5 access IoT sensor Data
+# LLM running locally on Raspberry Pi 5 with access to IoT sensor Data
 
 ## Overview
 
