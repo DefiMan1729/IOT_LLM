@@ -64,7 +64,7 @@ void loop() {
 ### Python code for Raspberry Pi 5
 The following Python script reads temperature data from the Arduino Uno, processes it using the DeepSeek LLM, and logs the response:
 
-```
+```python3
 import ollama
 import time
 import psutil  # Library for CPU and memory statistics
