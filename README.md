@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project demonstrates how to read temperature data from a DHT11 sensor connected to an Arduino Uno, transmit the data to a Raspberry Pi 5 via a USB connection, and process the data using a locally hosted Large Language Model (LLM) called DeepSeek.
+This project demonstrates how to read temperature data from a DHT11 sensor connected to an Arduino Uno, transmit the data to a Raspberry Pi 5 via a USB connection, and process the data using a locally hosted Large Language Model (LLM).
 
 ---
 
 ## Hardware Setup
 
 1. **DHT11 Sensor:**
-   - **Data Pin:** Connected to **Pin 2** of the Arduino Uno.
+   - **Data Pin:** Connected to **Pin 2** of the Arduino Uno. (you can choose any data pin)
    - The DHT11 sensor measures temperature data.
 
 2. **Arduino Uno:**
    - Acts as a bridge to transmit the DHT11 sensor data to the Raspberry Pi.
-   - Connected to the Raspberry Pi 5 via a **USB cable**.
+   - Connected to the Raspberry Pi 5 via a **USB cable**. 
 
 3. **Raspberry Pi 5:**
    - Reads the serial data sent by the Arduino Uno.
