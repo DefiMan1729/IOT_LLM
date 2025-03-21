@@ -3,6 +3,8 @@
 ## Overview
 
 This project demonstrates how to read temperature data from a DHT11 sensor connected to an Arduino Uno, transmit the data to a Raspberry Pi 5 via a USB connection, and process the data using a locally hosted Large Language Model (LLM).
+![WhatsApp Image 2025-03-21 at 15 35 24](https://github.com/user-attachments/assets/fc2a0424-7413-436f-b1e8-a533815aeb6c)
+
 
 ---
 
