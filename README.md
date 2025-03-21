@@ -1,4 +1,4 @@
-# DHT11 Temperature Data Processing Pipeline
+# IOT Sensor Data to LLM locally on Raspberry Pi 5
 
 ## Overview
 
